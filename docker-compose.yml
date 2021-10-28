@@ -1,0 +1,9 @@
+version: "3"
+services:
+    python3:
+        build: .
+        container_name: "python3"
+        working_dir: "/home/dockeruser"
+        tty: true
+        volumes:
+            - ${SRC_PATH}:/home/dockeruser
