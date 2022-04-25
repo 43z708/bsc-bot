@@ -11,7 +11,7 @@ print(web3.isConnected())
 
 
 
-my_wallet_address = '0x298523fAA843CA40e83b7934170ca874a4FA1b04'
+my_wallet_address = ''
 my_secret_key = '*** 自分のウォレットの秘密鍵 ***'
 spend_token_address = '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c' # WBNB
 token_adress_to_buy = '0x899559c7151ddc01Fc084341B36101EAC1B6C01B'
