@@ -2,7 +2,7 @@ from web3 import Web3
 
 bsc_rpc = "https://bsc-dataseed.binance.org/"
 
-my_wallet_address = '0x298523fAA843CA40e83b7934170ca874a4FA1b04' # 自分のウォレットのアドレス
+my_wallet_address = '*** 自分のウォレットのアドレス ***' # 自分のウォレットのアドレス
 my_secret_key = '*** 自分のウォレットの秘密鍵 ***' # 自分のウォレットの秘密鍵
 to_wallet = '*** 送り先のアドレス ***' # 送り先のアドレス
 amount = 0.01 # 送金料
