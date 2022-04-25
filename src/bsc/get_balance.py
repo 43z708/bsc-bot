@@ -2,7 +2,7 @@ import json
 from web3 import Web3
 
 bsc_rpc = "https://bsc-dataseed.binance.org/"
-my_wallet_address = '0x298523fAA843CA40e83b7934170ca874a4FA1b04'
+my_wallet_address = ''
 
 # トークンアドレスとトークン名、abiディレクトリのファイル名をトークン名と揃えること
 contract_address = '0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82'
